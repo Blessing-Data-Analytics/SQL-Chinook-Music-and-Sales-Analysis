@@ -38,9 +38,13 @@ This project demonstrates SQL analysis using Microsoft SQL Server Management Stu
 - Chinook_Queries.sql
 - Sales_Queries.sql
 - SQL_Project_Report.pdf
+- Images(screenshots of queries)
 
 ## Key Insights
 - Revenue is concentrated among a small percentage of customers.
 - Product performance varies significantly across categories.
 - SQL joins provide comprehensive insights across related tables.
 - Window functions simplify ranking and trend analysis.
+
+[Dashboard]! <img width="1907" height="902" alt="sales_query results" src="https://github.com/user-attachments/assets/c23c3d5e-c3ad-4c83-b978-3e6117365ed7" />
+
